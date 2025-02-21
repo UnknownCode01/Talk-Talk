@@ -1,6 +1,6 @@
 # Talk-Talk
 
-A modern Next.js application for blogging video content, seamlessly integrated with ImageKit. **Talk-Talk** offers a comprehensive platform featuring user authentication, video upload capabilities, and video enjoying experience.
+A modern Next.js application for blogging video content, seamlessly integrated with ImageKit. **Talk-Talk** offers a comprehensive platform featuring user authentication, video upload capabilities, and an engaging video viewing experience.
 
 ## 🚀 Features
 - 🔐 **User Authentication** (NextAuth.js)
@@ -88,4 +88,4 @@ IMAGEKIT_URL_ENDPOINT=
 ```
 
 ## 🙅 Contributing
-All contributions to take the app towards perfection are accepted.
+Contributions aimed at enhancing the application are warmly welcomed.
